@@ -33,6 +33,8 @@ Last updated: 2021 July 26 | 11:29:28
 
 [Writing about Slavery/Teaching about Slavery](https://docs.google.com/document/d/1A4TEdDgYslX-hlKezLodMIM71My3KTN0zxRv0IQTOQs/)  as crowd-sourced by senior scholars of slavery studies, initiative led by Dr. Pier Gabrielle Foreman. [[PDF](https://github.com/jmjafrx/resources/blob/main/docs/Writing%20about%20_Slavery__%20This%20Might%20Help.pdf)] [[Original Tweet for Reference](https://twitter.com/profgabrielle/status/1030053866698690562)]
 
+[Small Chunks Go Down Easier (Writing with Scrivener) Part I](http://dh.jmjafrx.com/2013/03/15/small-chunks-go-down-easier-ft-scrivener-writing/) by Jessica Marie Johnson
+
 ------
 
 ##  Slavery and Diaspora Digital Resources (a selection)
