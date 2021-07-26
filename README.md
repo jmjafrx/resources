@@ -1,7 +1,11 @@
+
+![gang of men and women rice harpers 1859 PNG](https://github.com/jmjafrx/resources/blob/main/docs/gang%20of%20men%20and%20women%20rice%20harpers%201859%20PNG.png)
+
+
 # Resources 
 
 Created by Jessica Marie Johnson (@jmjafrx)   
-License for use and reuse here: https://github.com/jmjafrx/resources/blob/main/LICENSE   
+[License for use and reuse](https://github.com/jmjafrx/resources/blob/main/LICENSE)  
 Last updated: 2021 July 26 | 11:29:28 
 
 ## General Resources for Students
@@ -41,7 +45,9 @@ African Diaspora, Ph.D.
 [http://africandiasporaphd.com](http://africandiasporaphd.com)
 [ http://africandiasporaphd.tumblr.com](http://africandiasporaphd.tumblr.com)
 
-[Slavery Archive Book Club](https://www.youtube.com/c/SlaveryarchiveBookClub/)
+#SlaveryArchive Book Club  
+[Slavery Archive Book Club Website to Register](https://slaveryarchive.wordpress.com/slaveryarchive-book-club-year-2/)  
+[Slavery Archive Book Club YouTube](https://www.youtube.com/c/SlaveryarchiveBookClub/)
 
 [In Motion: The African-American Migration Experience](http://www.inmotionaame.org/home.cfm)
 
