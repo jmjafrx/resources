@@ -18,7 +18,7 @@ Last updated: 2021 July 26 | 11:29:28
 
 ------
 
-## Doing Research
+## Doing Slavery/Diaspora Research
 
 [Africana Studies: Selected Research Guide at JHU Libraries](http://guides.library.jhu.edu/africana)
 
@@ -27,6 +27,13 @@ Last updated: 2021 July 26 | 11:29:28
 [Reading, Writing and Researching History:  A Guide for College Students by Patrick Rael](http://www.bowdoin.edu/writing-guides/)
 
 [Research Guide on Atlantic African Diaspora](https://github.com/jmjafrx/adphd/tree/master/atlanticafricaresearch)
+
+------
+## Doing #BlackDH Research or Projects  
+
+[Blackivists’ Five Tips for Organizers, Protestors, and Anyone Documenting Movements](https://sixtyinchesfromcenter.org/the-blackivists-five-tips-for-organizers-protestors-and-anyone-documenting-movements/)  
+
+[The Blackivists’ Five Tips for Donating Your Materials](https://sixtyinchesfromcenter.org/the-blackivists-five-tips-for-donating-your-materials/)
 
 ------
 ## Writing Slavery and Diaspora
