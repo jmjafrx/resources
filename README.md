@@ -1,8 +1,10 @@
-# Resources for Students and Historians
+# Resources 
 
-## Resources for Students
+Created by Jessica Marie Johnson (@jmjafrx)   
+License for use and reuse here: https://github.com/jmjafrx/resources/blob/main/LICENSE   
+Last updated: 2021 July 26 | 11:29:28 
 
-[Researching and Writing the Atlantic African Diaspora](https://wp.me/P8KuWL-1Np)
+## General Resources for Students
 
 [Power & Privilege Vocabulary Sheet](https://docs.google.com/document/d/e/2PACX-1vQKS5obvulgnX20v_V6cjZNQhwCfHrl2h9eIGb3rdL_xC-p0m2h5Gkd1DPlJrHbo1kUyP0BzDlIdJLp/pub)
 
@@ -14,42 +16,40 @@
 
 ## Doing Research
 
-**Africana Studies: Selected Research Guide at JHU Libraries**
+[Africana Studies: Selected Research Guide at JHU Libraries](http://guides.library.jhu.edu/africana)
 
-http://guides.library.jhu.edu/africana
+[History: Selected Resources at JHU Libraries](http://guides.library.jhu.edu/history)
 
-**History: Selected Resources at JHU Libraries**
+[Reading, Writing and Researching History:  A Guide for College Students by Patrick Rael](http://www.bowdoin.edu/writing-guides/)
 
-http://guides.library.jhu.edu/history
+[Research Guide on Atlantic African Diaspora](https://github.com/jmjafrx/adphd/tree/master/atlanticafricaresearch)
 
-**Reading, Writing and Researching History:  A Guide for College Students by Patrick Rael
-**
+------
+## Writing Slavery and Diaspora
 
-http://www.bowdoin.edu/writing-guides/
-
-**Research Guide on Atlantic African Diaspora**
-
-https://github.com/jmjafrx/adphd/tree/master/atlanticafricaresearch
+[Writing about Slavery/Teaching about Slavery](https://docs.google.com/document/d/1A4TEdDgYslX-hlKezLodMIM71My3KTN0zxRv0IQTOQs/)  as crowd-sourced by senior scholars of slavery studies, initiative led by Dr. Pier Gabrielle Foreman. [[PDF](https://github.com/jmjafrx/resources/blob/main/docs/Writing%20about%20_Slavery__%20This%20Might%20Help.pdf)] [[Original Tweet for Reference](https://twitter.com/profgabrielle/status/1030053866698690562)]
 
 ------
 
-##  African Diaspora Digital Projects (a selection)
+##  Slavery and Diaspora Digital Resources (a selection)
 
-**African Diaspora, Ph.D.** (now #**ADPhDProjects**)
-**
-
-http://africandiasporaphd.com
-[ http://africandiasporaphd.tumblr.com](http://africandiasporaphd.tumblr.com)
+#ADPhDProjects
 [ http://twitter.com/adphdprojects](http://twitter.com/adphdprojects)
 [ http://instagram.com/adphdprojects](http://instagram.com/adphdprojects)
 
-**In Motion: The African-American Migration Experience**
+African Diaspora, Ph.D.
+[http://africandiasporaphd.com](http://africandiasporaphd.com)
+[ http://africandiasporaphd.tumblr.com](http://africandiasporaphd.tumblr.com)
 
-http://www.inmotionaame.org/home.cfm
+[Slavery Archive Book Club](https://www.youtube.com/c/SlaveryarchiveBookClub/)
 
-**The Library of Congress:: American Memory**
+[In Motion: The African-American Migration Experience](http://www.inmotionaame.org/home.cfm)
 
-https://memory.loc.gov/ammem/browse/
+
+------
+## American History Resources
+
+[The Library of Congress:: American Memory](https://memory.loc.gov/ammem/browse/)
 
 ------
 
