@@ -1,1 +1,1 @@
-Docs folder, browse at will.
+Media Library. Browse at will. 
