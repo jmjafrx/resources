@@ -35,6 +35,13 @@ Last updated: 2021 July 26 | 11:29:28
 
 [The Blackivists’ Five Tips for Donating Your Materials](https://sixtyinchesfromcenter.org/the-blackivists-five-tips-for-donating-your-materials/)
 
+[The Digital Alchemists Respect and Control Wheels](https://femtechnet.org/csov/do-better/) [[PDF]](https://femtechnet.org/wp-content/uploads/2016/11/Nov_10Respect_Control-Color.pdf)
+
+![Respect Wheel](https://github.com/jmjafrx/resources/blob/main/docs/Digital%20Alchemy%20Respect%20Wheel.png)
+
+![Control Wheel](https://github.com/jmjafrx/resources/blob/main/docs/Digital%20Alchemy%20Control%20Wheel.png)
+
+
 ------
 ## Writing Slavery and Diaspora
 
