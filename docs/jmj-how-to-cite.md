@@ -12,15 +12,15 @@ If you are using material found here in a scholarly work, refer to your favorite
 
 Blog posts and comments are usually left out of the bibliography but you should “cite in running text (“In a comment posted to *The Becker-Posner Blog* on February 23, 2010, . . .”)” or more formally in a note:
 
-1. Jessica Marie Johnson, Month Day, Year of Post (H:MM p.m.), comment on Jessica Marie Johnson, “Post Title,” *Blood+Sweat+Sinew*, Month Day, Year of Post, URL.
+1. Jessica Marie Johnson, Month Day, Year of Post (H:MM p.m.), comment on Jessica Marie Johnson, “Post Title,” *Kitchen Table History*, Month Day, Year of Post, URL.
 
-2. Jessica Marie Johnson, “Post Title,” *Blood+Sweat+Sinew*, Month Day, Year of Post, URL.
+2. Jessica Marie Johnson, “Post Title,” *Kitchen Table History*, Month Day, Year of Post, URL.
 
-3. Johnson, comment on Johnson, “Post Title.” *Blood+Sweat+Sinew*
+3. Johnson, comment on Johnson, “Post Title.” *Kitchen Table History*
 
 In a bibliography:
 
-Johnson, Jessica Marie, *Blood+Sweat+Sinew*. *[https://jmjafrx.substack.com/](https://jmjafrx.substack.com/)*.
+Johnson, Jessica Marie, *Kitchen Table History*. *[https://jmjafrx.substack.com/](https://jmjafrx.substack.com/)*.
 
  
 
