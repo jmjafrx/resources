@@ -75,4 +75,6 @@ African Diaspora, Ph.D.
 
 ------
 
-## Digital Louisiana
+## Digital Humanities & History Resources
+
+Drucker, Johanna, David Kim, Iman Salehian, and Anthony Bushong. Introduction to Digital Humanities: Course Book : Concepts, Methods, and Tutorials for Students and Instructors, 2014. [Link to PDF](https://github.com/jmjafrx/resources/blob/main/docs/Drucker%202014%20Intro%20to%20DH%20Textbook.pdf)
