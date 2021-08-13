@@ -53,19 +53,23 @@ Last updated: 2021 July 26 | 11:29:28
 
 ##  Slavery and Diaspora Digital Resources (a selection)
 
-#ADPhDProjects
-[ http://twitter.com/adphdprojects](http://twitter.com/adphdprojects)
-[ http://instagram.com/adphdprojects](http://instagram.com/adphdprojects)
+#ADPhDProjects  
+[ http://twitter.com/adphdprojects](http://twitter.com/adphdprojects)  
+[ http://instagram.com/adphdprojects](http://instagram.com/adphdprojects)  
 
-African Diaspora, Ph.D.
-[http://africandiasporaphd.com](http://africandiasporaphd.com)
-[ http://africandiasporaphd.tumblr.com](http://africandiasporaphd.tumblr.com)
+African Diaspora, Ph.D.  
+[http://africandiasporaphd.com](http://africandiasporaphd.com)  
+[ http://africandiasporaphd.tumblr.com](http://africandiasporaphd.tumblr.com)  
 
 #SlaveryArchive Book Club  
 [Slavery Archive Book Club Website to Register](https://slaveryarchive.wordpress.com/slaveryarchive-book-club-year-2/)  
-[Slavery Archive Book Club YouTube](https://www.youtube.com/c/SlaveryarchiveBookClub/)
+[Slavery Archive Book Club YouTube](https://www.youtube.com/c/SlaveryarchiveBookClub/)  
 
-[In Motion: The African-American Migration Experience](http://www.inmotionaame.org/home.cfm)
+[In Motion: The African-American Migration Experience](http://www.inmotionaame.org/home.cfm) at the Schomburg Center for Black Research in New York City   
+
+Alternative Archives and Digital Literacies: Rethinking Caribbean History (a collection of examples that can be used for rethinking Latin American and Caribbean DH) 
+[[PowerPoint Deck](https://www.dropbox.com/s/xf0vawm1g99cojp/LASA%20Archives%20Sources%20Methods.pptx?dl=0)]
+
 
 
 ------
