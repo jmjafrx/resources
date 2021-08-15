@@ -87,7 +87,9 @@ The Progamming Historian (great tools and tutorials here) [Link](https://program
 
 Johnson's 4DH framework memes for sharing, teaching, remixing. 4DH is proposed by Johnson as a guiding framework for thinking about "digital humanities" and all of its facets). Discussed in Johnson, Jessica Marie. “Xroads Praxis: Black Diasporic Technologies for Remaking the New World.” Sx Archipelagos, no. 3 (July 9, 2019). https://doi.org/10.7916/archipelagos-4fjd-k774 and in Johnson, Jessica Marie. “4DH + 1 Black Code / Black Femme Forms of Knowledge and Practice.” American Quarterly 70, no. 3 (September 29, 2018): 665–70. https://doi.org/10.1353/aq.2018.0050.
 
-![4DH Crowe Meme](https://github.com/jmjafrx/resources/blob/main/docs/Johnson%204DH%20Crowe%20Braids.png)
+4DH Meme #1
+![4DH Crowe Meme](https://github.com/jmjafrx/resources/blob/main/docs/Johnson%204DH%20Crowe%20Braids.png)  
 
-![4DH Xroads Meme](https://github.com/jmjafrx/resources/blob/main/docs/Johnson%204DH%20Xroads%20Graphic.png)
+4DH Meme #2
+![4DH Xroads Meme](https://github.com/jmjafrx/resources/blob/main/docs/Johnson%204DH%20Xroads%20Graphic.png)  
 
