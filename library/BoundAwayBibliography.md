@@ -2,7 +2,13 @@
 
 Vincent Brown, “Mapping a Slave Revolt Visualizing Spatial History through the Archives of Slavery,” Social Text 33, no. 4 125 (December 1, 2015): 134–41, https://doi.org/10.1215/01642472-3315826.
 
+Slave Revolt in Jamaica, 1760-1: http://revolt.axismaps.com/ (PI: Vincent Brown)
+
 Tao Leigh Goffe, “Unmapping the Caribbean: Toward a Digital Praxis of Archipelagic Sounding,” Archipelagos, no. 5 (2020), http://archipelagosjournal.org/es/issue05/goffe-unmapping.html.
+
+Dark Laboratory: https://www.darklaboratory.com/
+
+Electric Laboratory (a Dark Laboratory x Taller Electric Marronage Crossover Event): https://www.publicbooks.org/electric-laboratory/
 
 Andrew Kahn and Jamelle Bouie, “The Atlantic Slave Trade in Two Minutes,” Slate, June 25, 2015, http://www.slate.com/articles/life/the_history_of_american_slavery/2015/06/animated_interactive_of_the_history_of_the_atlantic_slave_trade.html.
 
@@ -19,4 +25,28 @@ Abdul Alkhalimat, “The Sankofa Principle: From the Drum to the Digital,” in 
 eBlack Studies Manifesto, 2008. https://www.digitalmanifesto.net/manifestos/185/
 
 Roopika Risam and Kelly Baker Josephs, eds., The Digital Black Atlantic (Minneapolis: Univ Of Minnesota Press, 2021).
+
+Kim Gallon, “Making a Case for the Black Digital Humanities,” in Debates in the Digital Humanities 2016, ed. Matthew K. Gold and Lauren Klein (Minneapolis: University of Minnesota Press, 2016).
+
+Alexander G. Weheliye, Habeas Viscus: Racializing Assemblages, Biopolitics, and Black Feminist Theories of the Human (Durham: Duke University Press Books, 2014).
+
+COVIDBlack: https://www.covidblack.org/homegoing
+
+Catherine Knight Steele, Digital Black Feminism (New York: NYU Press, 2021).
+
+BCat Lab: https://www.disconetwork.org/bcat-lab (PI: Catherine Knight-Steele)
+
+Shaka McGlotten, “Black Data,” in No Tea, No Shade: New Writings in Black Queer Studies, ed. E. Patrick Johnson (Durham: Duke University Press, 2016), https://read.dukeupress.edu/books/book/23/chapter/97539/Black-Data.
+
+Zach Blas: Facial Weaponization Suite: https://zachblas.info/works/facial-weaponization-suite/
+
+Jessica Lynne, “Reading the Numbers of Stop-and-Frisk,” Hyperallergic, September 21, 2015, http://hyperallergic.com/237694/reading-the-numbers-of-stop-and-frisk/.
+
+Mimi Onuoha, An Overview and Exploration of the Concept of Missing Datasets. : MimiOnuoha/Missing-Datasets, 2018, https://github.com/MimiOnuoha/missing-datasets.
+
+Jennifer L. Morgan, Reckoning with Slavery: Gender, Kinship, and Capitalism in the Early Black Atlantic (Durham: Duke University Press Books, 2021).
+
+
+
+
 
