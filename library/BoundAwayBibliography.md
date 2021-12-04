@@ -1,5 +1,7 @@
 # Books and Texts Shared During the Bound Away Conference at Rice University on December 3, 2021
 
+Link to slides (revised of sensitive content): [Johnson Bound Away Slideshow](https://www.canva.com/design/DAExILcoqwM/6oGcCY1YLSDoyVouflTstQ/view?website#2:black-beyond-data-the-long-middle-passage-to-louisiana)
+
 Vincent Brown, “Mapping a Slave Revolt Visualizing Spatial History through the Archives of Slavery,” Social Text 33, no. 4 125 (December 1, 2015): 134–41, https://doi.org/10.1215/01642472-3315826.
 
 Slave Revolt in Jamaica, 1760-1: http://revolt.axismaps.com/ (PI: Vincent Brown)
