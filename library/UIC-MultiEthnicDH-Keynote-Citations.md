@@ -9,6 +9,8 @@ Jessica Marie Johnson, “4DH + 1 Black Code / Black Femme Forms of Knowledge an
 
 Alexandra Eaton et al., “Video: Searching for the Lost Graves of Louisiana’s Enslaved People,” The New York Times, June 28, 2021, sec. U.S., https://www.nytimes.com/video/us/100000007778616/louisiana-cancer-alley-cemetery-african-americans-video.html.
 
+Clyde Woods, Development Drowned and Reborn: The Blues and Bourbon Restorations in Post-Katrina New Orleans (University of Georgia Press, 2017).
+
 Edouard Glissant, Poetique de la Relation, 0 edition (Paris: Gallimard, 1990).
 
 Edouard Glissant, Poetics of Relation as translated by Betsy Wing (Ann Arbor: University of Michigan Press, 1997).
@@ -26,3 +28,7 @@ Marisa Parham, “Breaking, Dancing, Making in the Machine: Notes on .Break .Dan
 Marisa Parham, "Let us be weightless" Material Conditions #1 https://materialconditions.salt.codes/mc-01
 
 Véronique Petetin, “La barque ouverte. Sur un motif d’Edouard Glissant,” Études 404, no. 4 (2006): 508–15, https://doi.org/10.3917/etu.044.0508.
+
+Romi Ron Morrison, “Voluptuous Disintegration: A Future History of Black Computational Thought,” Digital Humanities Quarterly 016, no. 3 (n.d.), http://www.digitalhumanities.org/dhq/vol/16/3/000634/000634.html.
+
+Alanna Prince and Cara Marta Messina, “Black Digital Humanities for the Rising Generation,” Digital Humanities Quarterly 016, no. 3 (July 22, 2022), http://www.digitalhumanities.org/dhq/vol/16/3/000645/000645.html.
