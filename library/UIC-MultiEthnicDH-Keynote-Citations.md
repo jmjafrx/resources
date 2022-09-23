@@ -1,5 +1,5 @@
-Works Cited in "Brittle Bits and Pieces: Adrift in Black Digital Practice" 
-Keynote delivered at the Multi-Ethnic DH Conference on September 23, 2022
+# Works Cited in "Brittle Bits and Pieces: Adrift in Black Digital Practice" 
+## Keynote delivered at the Multi-Ethnic DH Conference on September 23, 2022
 
 M. Jacqui Alexander, Pedagogies of Crossing: Meditations on Feminism, Sexual Politics, Memory, and the Sacred (Duke University Press, 2005).
 
