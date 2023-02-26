@@ -93,3 +93,8 @@ Johnson's 4DH framework memes for sharing, teaching, remixing. 4DH is proposed b
 4DH Meme #2
 ![4DH Xroads Meme](https://github.com/jmjafrx/resources/blob/main/docs/Johnson%204DH%20Xroads%20Graphic.png)  
 
+## Tools
+
+Palladio (data viz and network analysis): [https://hdlab.stanford.edu/palladio-app/#/upload](https://hdlab.stanford.edu/palladio-app/#/upload)
+
+Breve (data analysis tool): [http://hdlab.stanford.edu/breve/](http://hdlab.stanford.edu/breve/)
