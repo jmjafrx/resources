@@ -32,4 +32,3 @@
 * Keywords for Black Louisiana [https://www.lifexcode.org/keywordsblackla](https://www.lifexcode.org/keywordsblackla)
 * New Rubric for Engaging Descended Communities [https://montpelierdescendants.org/rubric/](https://montpelierdescendants.org/rubric/)
 * Diaspora Solidarities Lab [https://www.dslprojects.org/](https://www.dslprojects.org/)
-* 
