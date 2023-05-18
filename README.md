@@ -1,6 +1,7 @@
 
 ![gang of men and women rice harpers 1859 PNG](https://github.com/jmjafrx/resources/blob/main/docs/gang%20of%20men%20and%20women%20rice%20harpers%201859%20PNG.png)
 
+_Resources related to many things slavery, history, and digital related. The /docs folder is a collection of assests, some useful, some just images used throughout this repo. The library holds citations from past talks and projects. See LICENSE below for how to use and reuse._
 
 # Resources 
 
