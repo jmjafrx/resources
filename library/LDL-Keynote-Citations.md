@@ -1,6 +1,6 @@
 ![https://github.com/jmjafrx/resources/blob/main/docs/lifexcode%20charts-LxC%20Labs%202023.drawio.png?raw=true](https://github.com/jmjafrx/resources/blob/main/docs/lifexcode%20charts-LxC%20Labs%202023.drawio.png?raw=true)
 
-# Citations & Links from the Louisiana Digital Library Fest Keynote
+# Citations & Links from the 2023 Louisiana Digital Library Fest Keynote
 
 * Midlo Center Obituary for Gwendolyn Midlo Hall: [https://www.instagram.com/p/Ch25Qxuu07M/?hl=en](https://www.instagram.com/p/Ch25Qxuu07M/?hl=en)
 * Community Altar for Gwendolyn Midlo Hall organized at the Midlo Center: [https://www.instagram.com/p/Cpf7iigOFMS/?hl=en](https://www.instagram.com/p/Cpf7iigOFMS/?hl=en)
