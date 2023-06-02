@@ -27,7 +27,9 @@ Last updated: 2021 July 26 | 11:29:28
 
 [Reading, Writing and Researching History:  A Guide for College Students by Patrick Rael](http://www.bowdoin.edu/writing-guides/)
 
-[Research Guide on Atlantic African Diaspora](https://github.com/jmjafrx/adphd/tree/master/atlanticafricaresearch)
+[Research Guide on Atlantic African Diaspora](https://github.com/jmjafrx/adphd/tree/master/atlanticafricaresearch)  
+
+[Sample African Diaspora Comprehensive Exam Field List](https://africandiasporaphd.com/about/a-sample-comps-list/)
 
 ------
 ## Doing #BlackDH Research or Projects  
