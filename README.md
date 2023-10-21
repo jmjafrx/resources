@@ -7,7 +7,7 @@ _Resources related to many things slavery, history, and digital related. The /do
 
 Created by Jessica Marie Johnson (@jmjafrx)   
 [License for use and reuse](https://github.com/jmjafrx/resources/blob/main/LICENSE)  
-Last updated: 2021 July 26 | 11:29:28 
+Last updated: 2023 October 21 | 16:03:57 
 
 ## General Resources for Students
 
@@ -43,6 +43,10 @@ Last updated: 2021 July 26 | 11:29:28
 ![Respect Wheel](https://github.com/jmjafrx/resources/blob/main/docs/Digital%20Alchemy%20Respect%20Wheel.png)
 
 ![Control Wheel](https://github.com/jmjafrx/resources/blob/main/docs/Digital%20Alchemy%20Control%20Wheel.png)
+
+[Shift Collective](https://www.shiftcollective.us/collective): "We strive to create measurable and lasting social change by developing inclusive cultural memory experiences that give voice to unheard narratives and perspectives. We help communities tell and amplify their own stories, so that incomplete dominant narratives do not persist. We are focused on inclusive narrative and historical representation in order to support social, cultural and resource equity."
+
+[Mapping Marronage](https://www.mappingmarronage.com/): "an interactive visualization of the trans-Atlantic networks of intellectual, creative and political exchange created by enslaved people in the 18th and 19th century. It traces the geographic reach, crossings and intersections of letters, testimonies and financial exchanges by enslaved people of African-descent"
 
 
 ------
@@ -101,3 +105,4 @@ Johnson's 4DH framework memes for sharing, teaching, remixing. 4DH is proposed b
 Palladio (data viz and network analysis): [https://hdlab.stanford.edu/palladio-app/#/upload](https://hdlab.stanford.edu/palladio-app/#/upload)
 
 Breve (data analysis tool): [http://hdlab.stanford.edu/breve/](http://hdlab.stanford.edu/breve/)
+
