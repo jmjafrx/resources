@@ -50,11 +50,16 @@ Last updated: 2023 October 21 | 16:03:57
 
 
 ------
-## Writing Slavery and Diaspora
+## Writing Slavery and Diaspora (or anything, really)
 
-[Writing about Slavery/Teaching about Slavery](https://docs.google.com/document/d/1A4TEdDgYslX-hlKezLodMIM71My3KTN0zxRv0IQTOQs/)  as crowd-sourced by senior scholars of slavery studies, initiative led by Dr. Pier Gabrielle Foreman. [[PDF](https://github.com/jmjafrx/resources/blob/main/docs/Writing%20about%20_Slavery__%20This%20Might%20Help.pdf)] [[Original Tweet for Reference](https://twitter.com/profgabrielle/status/1030053866698690562)]
+[Writing about Slavery/Teaching about Slavery](https://docs.google.com/document/d/1A4TEdDgYslX-hlKezLodMIM71My3KTN0zxRv0IQTOQs/)  as crowd-sourced by senior scholars of slavery studies, initiative led by Dr. Pier Gabrielle Foreman. [[PDF](https://github.com/jmjafrx/resources/blob/main/docs/Writing%20about%20_Slavery__%20This%20Might%20Help.pdf)] [[Original Tweet for Reference](https://twitter.com/profgabrielle/status/1030053866698690562)]  
 
-[Small Chunks Go Down Easier (Writing with Scrivener) Part I](https://jmjafrx.substack.com/p/small-chunks-go-down-easier-ft-scrivener) by Jessica Marie Johnson
+[Small Chunks Go Down Easier (Writing with Scrivener) Part I](https://jmjafrx.substack.com/p/small-chunks-go-down-easier-ft-scrivener) by Jessica Marie Johnson  
+
+[Chunk Your Writing Project into Small Chunks” by Dr. Sally https://web.archive.org/web/20171027173005/http://www.academiccoachingandwriting.org/academic-writing/academic-writing-blog/vii-chunk-your-writing-project-into-small-assignments/](https://web.archive.org/web/20171027173005/http://www.academiccoachingandwriting.org/academic-writing/academic-writing-blog/vii-chunk-your-writing-project-into-small-assignments/)  
+
+[“Writing Up a Storyboard to Avoid Restructuring” by Bombay, PhinisheD forums](https://github.com/jmjafrx/resources/blob/main/docs/PhinisheD%20-%20Writing%20up%20a%20storyboard%20to%20avoid%20restructuring.pdf)  
+
 
 ------
 
