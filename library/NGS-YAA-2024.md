@@ -1,6 +1,18 @@
 # Works Cited in "Archival Legacies of Black Diasporic Life" 
 ## Workshop facilitated at the New Generation Scholars Fellows Meeting on 2024 February 13
 
+
+Green, Jared. “The Landscapes of Harriet Tubman.” THE DIRT, October 18, 2022. https://dirt.asla.org/2022/10/18/the-cultural-landscapes-of-harriet-tubman/.  
+
+“Journeying toward Freedom and New Beginnings (U.S. National Park Service).” Accessed February 13, 2024. https://www.nps.gov/articles/new-beginnings-harriet-tubman-jacob-jackson-eastern-shore.htm.  
+
+“National Park Getaway: Harriet Tubman Underground Railroad National Historical Park (U.S. National Park Service).” Accessed February 13, 2024. https://www.nps.gov/articles/getaway-hatu.htm.  
+
+Stodghill, Ron. “Harriet Tubman’s Path to Freedom.” The New York Times, February 24, 2017, sec. Travel. https://www.nytimes.com/interactive/2017/02/24/travel/underground-railroad-slavery-harriet-tubman-byway-maryland.html  
+
+Harriet Tubman Byway: https://www.nytimes.com/interactive/2017/02/24/travel/underground-railroad-slavery-harriet-tubman-byway-maryland.html.  
+
+
 M. Jacqui Alexander, Pedagogies of Crossing: Meditations on Feminism, Sexual Politics, Memory, and the Sacred (Duke University Press, 2005).
 
 Melanye Price, “Opinion | Please Stop Showing the Video of George Floyd’s Death,” The New York Times, June 3, 2020, sec. Opinion, https://www.nytimes.com/2020/06/03/opinion/george-floyd-video-social-media.html.
