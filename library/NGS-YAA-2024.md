@@ -12,7 +12,13 @@ Stodghill, Ron. “Harriet Tubman’s Path to Freedom.” The New York Times, Fe
 
 Harriet Tubman Byway: https://www.nytimes.com/interactive/2017/02/24/travel/underground-railroad-slavery-harriet-tubman-byway-maryland.html.  
 
-Berry, Dorothy. “The House Archives Built.” Up//Root (blog). Accessed July 1, 2021. https://www.uproot.space/features/the-house-archives-built.
+Berry, Dorothy. “The House Archives Built.” Up//Root (blog). Accessed July 1, 2021. https://www.uproot.space/features/the-house-archives-built.  
+
+The Searchable Museum: https://www.searchablemuseum.com/how-we-know-what-we-know?#goto=34062  
+
+NMAAHC Collections: https://nmaahc.si.edu/explore/collection
+
+NMAAHC Slavery and Freedom Classification: https://nmaahc.si.edu/explore/collection/search?edan_q=%2A%3A%2A&edan_fq%5B%5D=set_name%3A%22Slavery%2Band%2BFreedom%2BObjects%22&op=Search
 
 
 
