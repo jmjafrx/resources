@@ -12,6 +12,10 @@ Stodghill, Ron. “Harriet Tubman’s Path to Freedom.” The New York Times, Fe
 
 Harriet Tubman Byway: https://www.nytimes.com/interactive/2017/02/24/travel/underground-railroad-slavery-harriet-tubman-byway-maryland.html.  
 
+Berry, Dorothy. “The House Archives Built.” Up//Root (blog). Accessed July 1, 2021. https://www.uproot.space/features/the-house-archives-built.
+
+
+
 
 M. Jacqui Alexander, Pedagogies of Crossing: Meditations on Feminism, Sexual Politics, Memory, and the Sacred (Duke University Press, 2005).
 
