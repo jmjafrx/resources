@@ -7,7 +7,7 @@ _Resources related to many things slavery, history, and digital related. The /do
 
 Created by Jessica Marie Johnson (@jmjafrx)   
 [License for use and reuse](https://github.com/jmjafrx/resources/blob/main/LICENSE)  
-Last updated: 2023 October 21 | 16:03:57 
+Last updated: 2025 January 19 | 22:00:43   
 
 ## General Resources for Students
 
@@ -110,6 +110,8 @@ Johnson's 4DH framework memes for sharing, teaching, remixing. 4DH is proposed b
 Palladio (data viz and network analysis): [https://hdlab.stanford.edu/palladio-app/#/upload](https://hdlab.stanford.edu/palladio-app/#/upload)
 
 Breve (data analysis tool): [http://hdlab.stanford.edu/breve/](http://hdlab.stanford.edu/breve/)
+
+Tree (listen to random forests on your computer): [https://www.tree.fm/forest/49] 
 
 ## Projects Of Interest
 
